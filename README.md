@@ -13,15 +13,21 @@ Our project aims to improve how we manage our supply chain by employing such ana
 Challenges:
 
 1.Getting Goods to Customers:
+
 Problems: Inaccurate time keeping of deliveries, drivers using the wrong routes and no real-time tracking for our shipments.
+
 Bad Effects: High costs, customer dissatisfaction, and inability to meet some orders.
 
 2.Keeping Track of What We Have:
+
 Problems: Oversupplying items in storage lack of stock at some points and inaccurate product information’s
+
 Bad Effects: Heavy investment in maintaining stocks tied up; losing out on sales opportunities; subpar performance.
 
 3.Understanding What Customers Want:
+
 Problems: Guessing wrong about what people will buy, not really knowing what they like, and not using our resources wisely.
+
 Bad Effects: Not using our resources in the best way, missing out on growth opportunities, and not making the most of our marketing efforts.
 
 Business Requirements: 
