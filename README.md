@@ -33,8 +33,9 @@ Business Requirements: Data Integration Strategy: Aggregate data from various
 
 Literature Survey Insights: Research shows that using data analytics can totally transform traditional supply chain practices. Tools like Qlik make it so much easier to see what's going on and make better predictions. Companies in all sorts of industries have seen big improvements in their operations after using these tools. But there can still be challenges, like managing data and making sure everyone in the company is on board with using data to make decisions.
 
-**Project Deliverables:
-** Dashboards: 
+## Project Deliverables:
+
+## Dashboards: 
 Inventory Management Dashboard: Monitor stock levels and operational efficiency.
 
 Sales and Market Analysis Dashboard: This will let us see how our sales are doing, also the way market trends affect us.
