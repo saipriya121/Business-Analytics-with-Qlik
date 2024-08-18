@@ -10,7 +10,7 @@
 
 Our project aims to improve how we manage our supply chain by employing such analytical tools as Qlik that can help clarify data. We would like to operate more efficiently, respond quickly, and increase effectiveness in areas such as goods transportation, inventory management and market research.
 
-Challenges:
+### Challenges:
 
 1.Getting Goods to Customers:
 
@@ -30,7 +30,7 @@ Problems: Guessing wrong about what people will buy, not really knowing what the
 
 Bad Effects: Not using our resources in the best way, missing out on growth opportunities, and not making the most of our marketing efforts.
 
-Business Requirements: 
+### Business Requirements: 
 
 -> Data Integration Strategy: Aggregate data from various supply chain sources and centralize. 
 
@@ -42,18 +42,19 @@ Business Requirements:
 
 -> Real-Time Analytics for Quick Decisions:  Use up-to-date information to make instant decisions as conditions change unexpectedly or otherwise.
 
-Literature Survey Insights: Research shows that using data analytics can totally transform traditional supply chain practices. Tools like Qlik make it so much easier to see what's going on and make better predictions. Companies in all sorts of industries have seen big improvements in their operations after using these tools. But there can still be challenges, like managing data and making sure everyone in the company is on board with using data to make decisions.
+### Literature Survey Insights: 
+Research shows that using data analytics can totally transform traditional supply chain practices. Tools like Qlik make it so much easier to see what's going on and make better predictions. Companies in all sorts of industries have seen big improvements in their operations after using these tools. But there can still be challenges, like managing data and making sure everyone in the company is on board with using data to make decisions.
 
 ### Project Deliverables:
 
-## Dashboards: 
+### Dashboards: 
 Inventory Management Dashboard: Monitor stock levels and operational efficiency.
 
 Sales and Market Analysis Dashboard: This will let us see how our sales are doing, also the way market trends affect us.
 
 Logistics and Delivery Performance Dashboard: This will help us track our performance of delivery system operations.
 
-## Analysis Reports:
+### Analysis Reports:
 
 Sales Analysis: A breakdown of sales performance on granular level
 
@@ -61,4 +62,5 @@ Product Name vs. Sales Analysis: An analysis of Top 10 Product names and Sales m
 
 Late Delivery Risk Analysis: Risk associated with geographical location or mode of payment
 
-Conclusion: With a solid data integration strategy and Qlik’s advanced analytics and visualization tools, we should be able to address our supply chain management challenges. The end result will be higher efficiency rates, reduced costs and more satisfied customers. It is important to ensure that our data is well managed in addition to creating a culture where everyone uses data to make decisions. Hence, all of the knowledge received will be put into use effectively for continuous improvement of the process at hand.
+### Conclusion:
+With a solid data integration strategy and Qlik’s advanced analytics and visualization tools, we should be able to address our supply chain management challenges. The end result will be higher efficiency rates, reduced costs and more satisfied customers. It is important to ensure that our data is well managed in addition to creating a culture where everyone uses data to make decisions. Hence, all of the knowledge received will be put into use effectively for continuous improvement of the process at hand.
