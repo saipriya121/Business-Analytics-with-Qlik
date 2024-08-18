@@ -30,7 +30,7 @@ Problems: Guessing wrong about what people will buy, not really knowing what the
 
 Bad Effects: Not using our resources in the best way, missing out on growth opportunities, and not making the most of our marketing efforts.
 
-** Business Requirements: 
+Business Requirements: 
 
 -> Data Integration Strategy: Aggregate data from various supply chain sources and centralize. 
 
@@ -44,7 +44,7 @@ Bad Effects: Not using our resources in the best way, missing out on growth oppo
 
 Literature Survey Insights: Research shows that using data analytics can totally transform traditional supply chain practices. Tools like Qlik make it so much easier to see what's going on and make better predictions. Companies in all sorts of industries have seen big improvements in their operations after using these tools. But there can still be challenges, like managing data and making sure everyone in the company is on board with using data to make decisions.
 
-## Project Deliverables:
+### Project Deliverables:
 
 ## Dashboards: 
 Inventory Management Dashboard: Monitor stock levels and operational efficiency.
