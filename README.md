@@ -30,7 +30,7 @@ Problems: Guessing wrong about what people will buy, not really knowing what the
 
 Bad Effects: Not using our resources in the best way, missing out on growth opportunities, and not making the most of our marketing efforts.
 
-Business Requirements: 
+** Business Requirements: 
 
 -> Data Integration Strategy: Aggregate data from various supply chain sources and centralize. 
 
