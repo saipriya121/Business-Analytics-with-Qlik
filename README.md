@@ -1,7 +1,7 @@
 # Data Driven Innovations in Supply Chain Management using Qlik Insights
 
 
-## Dataset Link: 
+## Dataset Link: https://drive.google.com/file/d/1bxe-iw4o3ARl3U6KnJUtIu6EB-N63_EI/view?usp=sharing
 
 ## Project Demonstration Link: https://drive.google.com/file/d/14ifqPEWKl-s6h9BjOehYFLO1IcBujfK7/view?usp=sharing
 
