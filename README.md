@@ -27,7 +27,7 @@ Bad Effects: High costs, customer dissatisfaction, and inability to meet some or
 
 2.Keeping Track of What We Have:
 
-Problems: Oversupplying items in storage lack of stock at some points and inaccurate product information’s
+Problems: Oversupplying items in storage lack of stock at some points and inaccurate product information.
 
 Bad Effects: Heavy investment in maintaining stocks tied up; losing out on sales opportunities; subpar performance.
 
@@ -63,11 +63,11 @@ Logistics and Delivery Performance Dashboard: This will help us track our perfor
 
 ### Analysis Reports:
 
-Sales Analysis: A breakdown of sales performance on granular level
+Sales Analysis: A breakdown of sales performance on Quarter level.
 
 Product Name vs. Sales Analysis: An analysis of Top 10 Product names and Sales made by Products during 4 years. 
 
-Late Delivery Risk Analysis: Risk associated with geographical location or mode of payment
+Late Delivery Risk Analysis: Risk associated with geographical location based on mode of payment.
 
 ### Conclusion:
 With a solid data integration strategy and Qlik’s advanced analytics and visualization tools, we should be able to address our supply chain management challenges. The end result will be higher efficiency rates, reduced costs and more satisfied customers. It is important to ensure that our data is well managed in addition to creating a culture where everyone uses data to make decisions. Hence, all of the knowledge received will be put into use effectively for continuous improvement of the process at hand.
