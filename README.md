@@ -7,6 +7,8 @@
 
 ### Kaggle Link: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download
 
+## Preprocessed Dataset Link: https://drive.google.com/file/d/1-95zUZUz4Hw9QccLYaaYorp6albwLS84/view?usp=sharing
+
 ## Project Demonstration Link: 
 ### https://drive.google.com/file/d/14ifqPEWKl-s6h9BjOehYFLO1IcBujfK7/view?usp=sharing
 
