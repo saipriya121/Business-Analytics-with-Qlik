@@ -1,4 +1,4 @@
-# Data-Driven Innovations in Supply Chain Management with Qlik 
+# Data-Driven Innovations In Supply Chain Management With Qlik 
 
 
 ## Dataset Links
